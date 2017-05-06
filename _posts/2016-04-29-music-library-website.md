@@ -9,7 +9,7 @@ keywords: "website, university, project, video, database, front-end, MySQL, PHP,
 <div class="video-container"><iframe src="https://www.youtube.com/embed/efkOz45v_aY" frameborder="0" allowfullscreen></iframe></div>
 
 This project has been a part of "Databases & Interfaces" module during first year of my degree. The project involved;
-- Creating a relational database to store varios music library related data using MySQL
+- Creating a relational database to store various music library related data using MySQL
 - Creating web-based front-end for the database using HTML & CSS
 - Implementing data retrieval and input into the database using PHP
 - And adding form validation using Javascript
