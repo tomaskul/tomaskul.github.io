@@ -1,13 +1,14 @@
-# Thinkspace v2.1
+# tomaskul.github.io
+This is my personal portfolio / blog site. More about me at [tomaskul.github.io](https://tomaskul.github.io/)
 
-Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
+## Framework
+[Jekyll](https://jekyllrb.com/)
 
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
+[Jekyll GitHub](https://github.com/jekyll/jekyll)
 
-### Screenshot
+## Theme
+Name: Thinkspace v2.1
 
-![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
+Source: [http://heiswayi.github.io/thinkspace](http://heiswayi.github.io/thinkspace)
 
-### License
-
-[MIT](LICENSE.md)
+License: [MIT](LICENSE.md)
