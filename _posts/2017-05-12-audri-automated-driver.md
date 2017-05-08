@@ -34,6 +34,6 @@ During this event, our group will demonstrate the finished application which we 
 
 ## References
 
-En.wikipedia.org. (2017). _Apprenticeship learning._ [online] Available at: (https://en.wikipedia.org/wiki/Apprenticeship_learning)[https://en.wikipedia.org/wiki/Apprenticeship_learning] [Accessed 8 May 2017].
+En.wikipedia.org. (2017). _Apprenticeship learning._ [online] Available at: [https://en.wikipedia.org/wiki/Apprenticeship_learning](https://en.wikipedia.org/wiki/Apprenticeship_learning) [Accessed 8 May 2017].
 
-Cs.waikato.ac.nz. (2017). _Weka 3 - Data Mining with Open Source Machine Learning Software in Java._ [online] Available at: (http://www.cs.waikato.ac.nz/ml/weka/)[http://www.cs.waikato.ac.nz/ml/weka/] [Accessed 8 May 2017].
+Cs.waikato.ac.nz. (2017). _Weka 3 - Data Mining with Open Source Machine Learning Software in Java._ [online] Available at: [http://www.cs.waikato.ac.nz/ml/weka/](http://www.cs.waikato.ac.nz/ml/weka/) [Accessed 8 May 2017].
