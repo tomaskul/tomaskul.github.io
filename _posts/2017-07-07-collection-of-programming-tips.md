@@ -104,14 +104,14 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 **_To be expanded upon..._**
 
 ## SOLID (OO Design)
-https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+[https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 ## YAGNI (XP principle)
-https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+[https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 ## References
 
-1. u/ericsw & u/wseymour on reddit. (2017). How do you learn to write better/cleaner code? • r/learnprogramming. [online] Available at: https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/ [Accessed 8 May 2017].
+1. u/ericsw & u/wseymour on reddit. (2017). How do you learn to write better/cleaner code? • r/learnprogramming. [online] Available at: [https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/](https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/) [Accessed 8 May 2017].
 
 ## Fixes and notes for the future
 - Add few published sources to back up any statements I made or quoted from memory
