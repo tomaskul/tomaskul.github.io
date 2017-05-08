@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programming Tips (WIP)"
+title: "Programming Tips"
 comments: false
 description: "A small collection of programming and software development related tips"
 keywords: "software engineering, software development, tips"
