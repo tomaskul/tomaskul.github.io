@@ -10,7 +10,7 @@ This page contains links to all of the projects I have worked on / I'm currently
 
 - [AUDRI- An Automated Driver](https://tomaskul.github.io/2017/audri-automated-driver/)
 
-  > ... We successfully received offer to work on our 1st choice project which involved developing and implementing an inverse
+  > We successfully received offer to work on our 1st choice project which involved developing and implementing an inverse
   > reinforced learning algorithm (En.wikipedia.org, 2017) which given a demonstration of a driving style, would be able to learn and
   > replicate the shown behaviour.
 
