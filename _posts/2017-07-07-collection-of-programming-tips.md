@@ -7,6 +7,7 @@ keywords: "software engineering, software development, tips"
 ---
 
 In order to write higher quality code, to better understand approaches taken to solving problems, conventions used and many other aspects of programming (which I couldn’t list of top of my head as of first writing this), there is a lot of information about practices and techniques used to know, understand and utilise in order to become a great programmer. As currently my programming experience is quite limited, I have decided to collate tips, advice and various other useful pieces of information in one place, to be used as a reference when coding.
+
 Remark: Some of items in this post will be very basic, some may become irrelevant over time or not even apply to certain programming paradigms (i.e., there’s going to be a lack of tips which would be relevant to someone writing a functional program). As time goes on I will add and modify the content to ensure its accuracy and get rid of typos. Lastly, this is meant to be a personal reference sheet and in its current state of completeness and quality I wouldn’t recommend anyone to use it. Refer to the sources provided in the references section below.
 
 ---
