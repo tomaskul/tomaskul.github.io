@@ -10,11 +10,14 @@ This page contains links to all of the projects I have worked on / I'm currently
 
 - [AUDRI- An Automated Driver](https://tomaskul.github.io/2017/audri-automated-driver/)
 
-  > Description TBA
+  > ... We successfully received offer to work on our 1st choice project which involved developing and implementing an inverse
+  > reinforced learning algorithm (En.wikipedia.org, 2017) which given a demonstration of a driving style, would be able to learn and
+  > replicate the shown behaviour.
 
 - [Basic Image Processing Script](https://tomaskul.github.io/2017/basic-image-processing-script/)
 
-  > Description TBA
+  > I was assigned to create a simple image processing script which implements some of the core image processing principles in order to
+  > generate a binary image from a small set of pictures of plants.
 
 ### 2016
 
