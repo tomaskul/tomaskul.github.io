@@ -33,9 +33,9 @@ Remark: Some of items in this post will be very basic, some may become irrelevan
 
 1. [Composition vs Inheritance](#composition-vs-inheritance)
 
-1. [SOLID (OO Design)](#solid-(oo-design))
+1. [SOLID (OO Design)](#solid-oo-design)
 
-1. [YAGNI (XP principle)](#yagni-(xp-principle))
+1. [YAGNI (XP principle)](#yagni-xp-principle)
 
 ## Naming
 ### Consistency
