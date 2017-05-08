@@ -8,6 +8,8 @@ keywords: "artificial intelligence, university, project, group project, year lon
 javafx 8"
 ---
 
+![Audri]({{ site.url }}/assets/images/audri.jpg)
+
 Details about this project to be added upon completion of the project
 
 ## Tools/Languages used in Development
