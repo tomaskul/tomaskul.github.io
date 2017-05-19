@@ -7,8 +7,6 @@ self-driving AI"
 keywords: "artificial intelligence, university, project, group project, year long, software engineering, software development, java, weka, javafx 8, gui, user interface, graphical user interface"
 ---
 
-**Project is due week beginning the 15th of May, hence this post is incomplete at this point in time**
-
 ![Audri]({{ site.url }}/assets/images/audri.png)
 
 
