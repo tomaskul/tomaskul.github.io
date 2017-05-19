@@ -12,10 +12,13 @@ This page contains links to all of the projects I have worked on / I'm currently
 
   > Once the project had concluded, our team had produced a program which met all the specified requirements, followed good code practices, had simple and easy to follow user interface, ran without any problems.
 
+- [C++ Game Prototype](https://tomaskul.github.io/2017/cpp-game/)
+
+  > I met most of the requirements getting 60% of the marks. Although the prototype has been pretty terrible, it did help me solidify my C++ understanding, learn about SDL2, and allow me to implement things such as vector based object container, class hierarchies and object factories
+
 - [Basic Image Processing Script](https://tomaskul.github.io/2017/basic-image-processing-script/)
 
-  > I was assigned to create a simple image processing script which implements some of the core image processing principles in order to
-  > generate a binary image from a small set of pictures of plants.
+  > I was assigned to create a simple image processing script which implements some of the core image processing principles in order to generate a binary image from a small set of pictures of plants.
 
 ### 2016
 
@@ -39,5 +42,4 @@ This page contains links to all of the projects I have worked on / I'm currently
 
 - [Wipers Game](https://tomaskul.github.io/2015/wiper-game/)
 
-  > This project was a college assignment where I was tasked with going through all of the key steps of software 
-  > development (design, plan, implementation & testing) and creating an educational video game based on a a particular event of WW1.
+  > This project was a college assignment where I was tasked with going through all of the key steps of software development (design, plan, implementation & testing) and creating an educational video game based on a a particular event of WW1.
