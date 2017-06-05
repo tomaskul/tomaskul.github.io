@@ -16,14 +16,17 @@ _Italic text_
 
 `ThisIsCode()`
 
-[Hyperlink](#)
+~~Strikethrough~~
+
+[Hyperlink](https://tomaskul.github.io/2015/markdown-cheatsheet/)
 
 ```
 **Bold text**
 _Italic text_
 **_bold italic text_**
 `ThisIsCode()`
-[Hyperlink](#)
+~~Strikethrough~~
+[Hyperlink](https://tomaskul.github.io/2015/markdown-cheatsheet/)
 ```
 
 <div class="divider"></div>
@@ -85,7 +88,28 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 - Or minuses
 + Or pluses
 
-<div class="divider"></div>
+```
+1. First order list item
+2. Second item
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+```
+
+### Task lists
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+
+<div class="divider"></div> 
 
 ## Code Blocks
 
