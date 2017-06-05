@@ -209,10 +209,10 @@ ___
 
 ### Image
 
-![Minion](http://octodex.github.com/images/minion.png)
+![Robotocat](https://octodex.github.com/images/Robotocat.png)
 
 ```
-![Minion](http://octodex.github.com/images/minion.png)
+![Robotocat](https://octodex.github.com/images/Robotocat.png)
 ```
 
 ---
