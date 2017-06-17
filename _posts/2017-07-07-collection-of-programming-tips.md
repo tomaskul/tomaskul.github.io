@@ -38,6 +38,12 @@ Remark: Some of items in this post will be very basic, some may become irrelevan
 
 1. [YAGNI (XP principle)](#yagni-xp-principle)
 
+1. [General](#general)
+
+      7.1. [Code Daily](#code-daily)
+      
+      7.2. [Read High Quality Code](#read-high-quality-code)
+
 ## Naming
 ### Consistency
 Regardless of chosen naming/spacing convention, applying the conventions _consistently_ matters. For example if the given naming 
@@ -109,9 +115,26 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 ## YAGNI (XP principle)
 [https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
+## General
+### Code Daily
+
+>By everyday, I mean everyday! How do professional athletes improve their skills? By practicing on a daily basis. Sure there can be off-days, where you take a break from it, but this should not be the norm. Name one athlete that won a gold medal by only practicing once or twice a week. Learning how to code is very similar to learning a new language or art. It takes a lot of practice! You can know everything there is to know about computers. But without practice, you won't be able to write code that is maintainable, let alone write something that people would actually want to read.<sup>(The Coding Delight, 2017)</sup>
+
+### Read High Quality Code
+
+>Every developer should read high quality open source code. When I first went through underscore.js and jQuery (not the entire code base), my mind was blown. Let me warn you: because the code is written by professionals, readers need to have a strong foundation in programming and in the language that the source is written in. In the the case of underscore and jQuery, the language would be JavaScript. 
+
+>In order to get a good open-source education, I recommend finding source code that is
+> - Relatively short (roughly around 1000 lines or less would be ideal)
+> - Well documented.
+
+>I recommend reading relatively short source code for two reasons. Firstly, short source code means readers don't have to spend as much time navigating the source to connect the pieces. Secondly, readers can fully understand shorter code bases much faster than a framework that has 100,000 lines of code. Shorter code bases such as modules are compact. Readers only see what they need to see.<sup>(The Coding Delight, 2017)</sup>
+
+
 ## References
 
 1. u/ericsw & u/wseymour on reddit. (2017). How do you learn to write better/cleaner code? • r/learnprogramming. [online] Available at: [https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/](https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/) [Accessed 8 May 2017].
+1. The Coding Delight. (2017). The 5 Effective Methods for Becoming a Better Programmer. [online] Available at: [http://www.thecodingdelight.com/become-better-programmer/](http://www.thecodingdelight.com/become-better-programmer/) [Accessed 17 Jun. 2017].
 
 ## Fixes and notes for the future
 - Add few published sources to back up any statements I made or quoted from memory
