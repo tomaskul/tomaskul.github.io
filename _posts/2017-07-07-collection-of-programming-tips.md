@@ -136,5 +136,20 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 1. u/ericsw & u/wseymour on reddit. (2017). How do you learn to write better/cleaner code? • r/learnprogramming. [online] Available at: [https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/](https://www.reddit.com/r/learnprogramming/comments/69eexp/how_do_you_learn_to_write_bettercleaner_code/) [Accessed 8 May 2017].
 1. The Coding Delight. (2017). The 5 Effective Methods for Becoming a Better Programmer. [online] Available at: [http://www.thecodingdelight.com/become-better-programmer/](http://www.thecodingdelight.com/become-better-programmer/) [Accessed 17 Jun. 2017].
 
+## Other useful reads
+
+### Programming
+- [Survival Guide for Junior Developers](https://medium.com/learning-new-stuff/survival-guide-for-junior-developers-d35371dd0818)
+- [10 Tips on How to be a Great Programmer](https://blog.jooq.org/2017/05/09/10-tips-on-how-to-be-a-great-programmer/)
+- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [Design Patterns / Design Antipatterns / Refactoring / UML](https://sourcemaking.com/)
+
+
+### UX / Design
+- [User Experience Professionals Association](http://uxpa.org/)
+- [Level Up Your CSS Skills With These 20 Pro CSS Tips](http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips)
+- [Good design is invisible: an interview with iA's Oliver Reichenstein](https://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible)
+
 ## Fixes and notes for the future
 - Add few published sources to back up any statements I made or quoted from memory
+- Organise the structure of this post
