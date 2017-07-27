@@ -49,6 +49,7 @@ gems:
   - bourbon
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-toc
 
 # navbar pages
 navbar:
