@@ -4,6 +4,7 @@ title: "Programming Tips"
 comments: false
 description: "A small collection of programming and software development related tips"
 keywords: "software engineering, software development, tips"
+toc: true
 ---
 
 In order to write higher quality code, to better understand approaches taken to solving problems, conventions used and many other aspects of programming (which I couldn’t list of top of my head as of first writing this), there is a lot of information about practices and techniques used to know, understand and utilise in order to become a great programmer. As currently my programming experience is quite limited, I have decided to collate tips, advice and various other useful pieces of information in one place, to be used as a reference when coding.
@@ -12,47 +13,7 @@ Remark: Some of items in this post will be very basic, some may become irrelevan
 
 ---
 
-## Table of contents
 
-1. [Basics](#basics)
-
-      1.1. [Naming](#naming)
-      
-            1.1.1. [Consistency](#consistency)
-            
-            1.1.2. [One letter variables in loops](#one-letter-variables-in-loops)
-            
-            1.1.3. [Choosing names](#choosing-names)
-            
-      1.2. [Commenting](#commenting)
-      
-      1.3. [Code duplication](#code-duplication)
-      
-      1.4. [Minimise class surface](#minimise-class-surface)
-      
-      1.5. [Complexity](#complexity)
-1. [Design Patterns](#design-patterns)
-1. [Principles](#principles)
-
-      3.1. [SOLID](#solid)
-      
-      3.2. [YAGNI](#yagni)
-      
-      3.3. [DRY](#dry)
-      
-      3.4. [Composition vs Inheritance](composition-vs-inheritance)
-1. [Other](#other)
-
-      4.1. [Code daily](#code-daily)
-      
-      4.2. [Read high quality code](#read-high-quality-code)
-      
-      4.3. [Useful reads](#useful-reads)
-      
-            4.3.1. [Programming](#programming)
-            
-            4.3.2. [UX / Design](#ux-/-design)
-1. [References](#references)
 
 ---
 
