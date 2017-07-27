@@ -4,7 +4,6 @@ title: "Programming Tips"
 comments: false
 description: "A small collection of programming and software development related tips"
 keywords: "software engineering, software development, tips"
-toc: true
 ---
 
 In order to write higher quality code, to better understand approaches taken to solving problems, conventions used and many other aspects of programming (which I couldn’t list of top of my head as of first writing this), there is a lot of information about practices and techniques used to know, understand and utilise in order to become a great programmer. As currently my programming experience is quite limited, I have decided to collate tips, advice and various other useful pieces of information in one place, to be used as a reference when coding.
@@ -13,7 +12,37 @@ Remark: Some of items in this post will be very basic, some may become irrelevan
 
 ---
 
+## Table of contents
 
+1. [Basics](#basics)
+
+      1.1. [Naming](#naming)
+            
+      1.2. [Commenting](#commenting)
+      
+      1.3. [Code duplication](#code-duplication)
+      
+      1.4. [Minimise class surface](#minimise-class-surface)
+      
+      1.5. [Complexity](#complexity)
+1. [Design Patterns](#design-patterns)
+1. [Principles](#principles)
+
+      3.1. [SOLID](#solid)
+      
+      3.2. [YAGNI](#yagni)
+      
+      3.3. [DRY](#dry)
+      
+      3.4. [Composition vs Inheritance](composition-vs-inheritance)
+1. [Other](#other)
+
+      4.1. [Code daily](#code-daily)
+      
+      4.2. [Read high quality code](#read-high-quality-code)
+      
+      4.3. [Useful reads](#useful-reads)
+1. [References](#references)
 
 ---
 
@@ -75,13 +104,25 @@ function, and break it down into smaller more modular parts.
 
 ## Principles
 ### SOLID
-[https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+**[SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))** is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable. Acronym introduced by Michael Feathers.
+
+| Initial | Concept | Desciption |
+|:---:|:---:|:---:|
+| **S** | [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) | "The **single responsibility principle** is a computer programming principle that states that every module or class should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the class." |
+| **O** | [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle) | “software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.” |
+| **L** | [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle) | “objects in a program should be replaceable with instances of their subtypes without altering the correctness, tasks performed, etc., of that program.” |
+| **I** | [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle) | "The **interface-segregation principle** states that no client should be forced to depend on methods it does not use. ISP splits interfaces that are very large into smaller and more specific ones that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called *role interfaces*. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy." |
+| **D** | [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) | one should “depend upon abstractions, [not] concretions.” |
 
 ### YAGNI
-[https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+"**You aren't gonna need it**" (**[YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)**) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary. XP co-founder Ron Jeffries has written: 
+
+>"Always implement things when you actually need them, never when you just forsee that you need them."
 
 ### DRY
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+"**Don't repeat yourself**" (**[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)**) is a principle aimed at reducing repetition of all kinds.
+
+When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync.
 
 ### Composition vs Inheritance
 > Most classroom courses love them some inheritance, but in the real world composition via interfaces is much easier to test and 
