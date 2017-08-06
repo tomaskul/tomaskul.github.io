@@ -7,6 +7,8 @@ keywords: "placement, uni, university, blog, finding placements, applying for pl
 software development, tips"
 ---
 
+**Word Count: 963**
+
 Throughout following 12 months, I will be on my industrial placement as a software developer, and have decided to start a series of 
 blog posts tracking my progress in preparation for my final year of my degree, and out of general curiosity to see what I have learnt, 
 what skills I gained and so on, throughout the coming year.
