@@ -154,12 +154,20 @@ When the DRY principle is applied successfully, a modification of any single ele
 - [10 Tips on How to be a Great Programmer](https://blog.jooq.org/2017/05/09/10-tips-on-how-to-be-a-great-programmer/)
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [Design Patterns / Design Antipatterns / Refactoring / UML](https://sourcemaking.com/)
-
+- [Free Programming Book List](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 #### UX / Design
 - [User Experience Professionals Association](http://uxpa.org/)
 - [Level Up Your CSS Skills With These 20 Pro CSS Tips](http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips)
 - [Good design is invisible: an interview with iA's Oliver Reichenstein](https://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible)
+
+#### Other resources
+- [Joel on Software (StackOverflow & Trello incubator sponsor)](https://www.joelonsoftware.com/)
+- [DerekBanas - General programming/dev tutorials](https://www.youtube.com/user/derekbanas/videos)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
+- [Learn Anything flowcharts](https://learn-anything.xyz/)
+- [StackOverflow](https://stackoverflow.com/)
 
 ## References
 
