@@ -6,7 +6,7 @@ description: "My experience during the first week on the placement"
 keywords: "placement, uni, university, blog, internship, software engineering, software development, week one"
 ---
 
-**Word Count: 420**
+**Word Count:** 420
 
 **Week 1:** 7<sup>th</sup> Aug - 11<sup>th</sup> Aug
 
