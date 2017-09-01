@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Blog Entry #4 – Week Three"
-author: tomas
 comments: false
 description: "My experience during the second week on the placement"
 keywords: "placement, uni, university, blog, internship, software engineering, software development, week two, phabricator, windows services, software development life cycle, c#, database, documentation"
