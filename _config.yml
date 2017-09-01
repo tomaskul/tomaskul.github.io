@@ -51,6 +51,23 @@ gems:
   - jekyll-seo-tag
   - jekyll-toc
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: "/:title/"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "/project/:title/"
+      type: "projects"
+    values:
+      layout: "project"
+      tech: "hi"
+
+
 # navbar pages
 navbar:
   - slug : about
