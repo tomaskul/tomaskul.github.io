@@ -4,7 +4,12 @@ title: "C++ Game Prototype"
 year: 2016
 tech: "C++, SDL2"
 category: "Game"
-relatedBlogs: "[Tips](https://tomaskul.github.io/2017/collection-of-programming-tips/)"
+blog1: "Tips"
+blog1Link: https://tomaskul.github.io/2017/collection-of-programming-tips/
+blog2: "Tips AGain!"
+blog2Link: https://tomaskul.github.io/2017/collection-of-programming-tips/
+blog3: "Random"
+blog3Link: http://google.com
 ---
 
 ![Cppcw]({{ site.url }}/assets/images/cppcw.png)
