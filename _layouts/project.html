@@ -4,7 +4,7 @@ layout: default
 
 <article class="project container">
 	<header class="page-header">
-		<h5 class="post-meta">{{page.year}} • Category: {{page.category}} • Tools/Languages: {{page.tech}}</h5>
+		<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> • <b>Category:<b> {{page.category}} • <b>Tools/Languages:</b> {{page.tech}}{% endif %}</p>
 		<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	</header>
 	
