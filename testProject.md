@@ -3,7 +3,6 @@ layout: project
 title: "C++ Game Prototype"
 year: 2016
 tech: "C++, SDL2"
-category: "Game"
 ---
 
 ![Cppcw]({{ site.url }}/assets/images/cppcw.png)
