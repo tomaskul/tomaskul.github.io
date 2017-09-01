@@ -4,11 +4,12 @@ layout: default
 
 <article class="project container">
 	<header class="page-header">
-		<h6 class="post-meta">{{page.year}} • Category: {{page.category}} • Tools/Languages: {{page.tech}}</h6>
+		<h5 class="post-meta">{{page.year}} • Category: {{page.category}} • Tools/Languages: {{page.tech}}</h5>
 		<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	</header>
-	
+	<hr>
 	<div class="project-content">
+		{{page.relatedBlogs}}
 		{{ content }}
 	</div>
 </article>
