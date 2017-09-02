@@ -10,6 +10,6 @@ layout: default
 	
 	<div class="project-content">
 		{{ content }}
-		{& if page.blogs %}{% include related_blogs.html %}{% endif %}
+		{% if page.blogs %}{% include related_blogs.html %}{% endif %}
 	</div>
 </article>
