@@ -4,7 +4,6 @@ title: "Wipers"
 year: 2015
 tech: "GML, Adobe Photoshop CS6"
 category: "Game"
-permalink: /project/wipers/
 ---
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WwmFI0qem3g" frameborder="0" allowfullscreen></iframe></div>
