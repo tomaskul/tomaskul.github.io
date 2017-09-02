@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "C++ Game"
-year: 2016
+year: 2017
 tech: "C++, SDL2"
 category: "Game"
 blogs: false
