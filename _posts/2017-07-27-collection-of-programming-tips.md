@@ -155,6 +155,7 @@ When the DRY principle is applied successfully, a modification of any single ele
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [Design Patterns / Design Antipatterns / Refactoring / UML](https://sourcemaking.com/)
 - [Free Programming Book List](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 #### UX / Design
 - [User Experience Professionals Association](http://uxpa.org/)
@@ -163,6 +164,8 @@ When the DRY principle is applied successfully, a modification of any single ele
 
 #### Other resources
 - [Joel on Software (StackOverflow & Trello incubator sponsor)](https://www.joelonsoftware.com/)
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
 - [DerekBanas - General programming/dev tutorials](https://www.youtube.com/user/derekbanas/videos)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
