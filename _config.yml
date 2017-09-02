@@ -32,7 +32,7 @@ author:
   name     : "Tomas Kulvietis"
   job      : "Computer Science Student"
   bio      : "Currently working as a Software Developer"
-  thumb    : /images/me.png
+  thumb    : /assets/images/me.png
   email    : gitcontact.tomas@gmail.com
   url      : https://tomaskul.github.io
   github   : https://github.com/tomaskul
