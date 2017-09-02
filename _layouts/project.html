@@ -4,7 +4,13 @@ layout: default
 
 <article class="project container">
 	<header class="page-header">
-		<p class="post-meta">{{page.year}}</p> • <p class="post-meta"><b>Category:<b> {{page.category}}</p> • <p><b>Tools/Languages:</b> {{page.tech}}</p>
+		<p class="post-meta">{{page.year}} • Category: {{page.category}} • Tools/Languages: {{page.tech}}</p>
+		
+		<hr>
+		
+		<p><b>Category: </b></p><p class="post-meta">{{page.category}}</p></br>
+		<p><b>Year: </b></p><p class="post-meta">{{page.year}}</p></br>
+		<p><b>Tools/Languages: </b></p><p class="post-meta">{{page.tech}}</p>
 		<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	</header>
 	
