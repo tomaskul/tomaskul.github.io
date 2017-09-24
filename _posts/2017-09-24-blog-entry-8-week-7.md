@@ -24,7 +24,7 @@ That aside, I spent the day in one with one of the other devs in the room where 
 
 ## Thursday
 -	Rewrote my SQL queries to use JOINS as they’re supposedly faster than sub-queries, and began testing them both to find performance variance (in hindsight the tests I performed were absolute garbage, as I didn’t have nearly enough records within the DB to see any differences in performance – also realised my grounds for doubting that JOINs are faster, was based purely on the silly approach Uni lecturer use to encourage students to look into module subjects, which simply doesn’t work – for me at least)
--	Jean for Genes fundraiser
+-	Jeans for Genes fundraiser
 
 ## Friday
 -	DB design flowchart updated within the implementation spec
