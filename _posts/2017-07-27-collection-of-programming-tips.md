@@ -93,12 +93,9 @@ Useful when choosing names<sup>(reddit, 2017)</sup>:
 > are exposed the easier it is for someone else to understand what your class does and how to use it.<sup>(reddit, 2017)</sup>
 
 ### Complexity
-If a specifc function (or method) performs more than the name of the said function, then there's a chance the code inside is too complex. 
-Far more desirable, recommended and professional approach is breaking down functionality into as small and singular behaviour as possible. 
-For example if you're doing some sort of damage calculation within a game, do not maitain entire calculation formula inside a single 
-function, and break it down into smaller more modular parts.
+If a function performs more than its' name implies, then it's quite likely that the function is too complex. If such is the case, then it's recommended to break down the functionality into several smaller and more focussed functions. This approach produces much more modular, testable and extensible code, and also reduces places where the function may fail - which helps tremendously when debugging and writing code which needs to be secure!
 
-**_To be expanded upon..._**
+This same complexity break down approach also applies to classes, and any other aspect of software.
 
 ## Design patterns
 
@@ -131,7 +128,7 @@ When the DRY principle is applied successfully, a modification of any single ele
 > "hopping around" to various functionality when trying to complete a task. This added focus tends to make you write better code in 
 > earlier iterations since you are not trying to juggle too much scope in your head at once.<sup>(reddit, 2017)</sup>
 
-**_To be expanded upon..._**
+**Self note:** Yeah, that's correct, stick to this rule as much as possible!
 
 ## Other
 ### Code daily
