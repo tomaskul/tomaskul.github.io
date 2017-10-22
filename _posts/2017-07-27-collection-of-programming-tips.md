@@ -128,7 +128,7 @@ When the DRY principle is applied successfully, a modification of any single ele
 > "hopping around" to various functionality when trying to complete a task. This added focus tends to make you write better code in 
 > earlier iterations since you are not trying to juggle too much scope in your head at once.<sup>(reddit, 2017)</sup>
 
-**Self note:** Yeah, that's correct, stick to this rule as much as possible!
+**Self note:** Yeah, that's correct, stick to this rule as much as possible! (additional elaboration can be found [here](https://blogs.msdn.microsoft.com/thalesc/2012/09/05/favor-composition-over-inheritance/))
 
 ## Other
 ### Code daily
