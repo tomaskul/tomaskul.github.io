@@ -12,24 +12,24 @@ keywords: "placement, uni, university, blog, internship, software engineering, s
 
 # Placement
 ## Monday
-I spend the first day getting introduced to the essential basics. Firstly, I met the software development team, and then rest of the company – far too many names & faces to remember for the first day. Whilst saying hi to everyone I was also shown around the company premises. With basics, out of the way, I spent rest of the day sorting out paperwork, laptop and familiarising myself with practices and software development culture within the team. Also, first visit to Chatwins!
+I spent the first day getting introduced to the essentials. Began the week by meeting the software development team, and then rest of the company – far too many names & faces to remember for the first day. Whilst saying hi to everyone I was also shown around the premises. With basics, out of the way, I spent rest of the day sorting out paperwork, laptop and familiarising myself with practices and software development culture within the team. Also, my first visit to Chatwins!
 
 ## Tuesday
-Tuesday was quite relaxing, yet intense on information intake. Spent good portion of the day reading (language agnostic code standards, development lifecycle, SVN, C# basics), being introduced to company products, and playing some (awful) game of pool. 
+Quite a relaxing day, but intense on information intake. Spent good portion of the day reading (language agnostic code standards, development lifecycle, SVN, C# basics), being introduced to company products, and playing a game of (awful) pool (might need more practice than I thought). 
 
 ## Wednesday
-Wednesday was the first day where I started feeling productive. Started the day off with my first contribution to the daily, team stand-up, learnt most of C# basics (variable types, operator overloading, anonymous (delegate) methods etc., essentially C# is a weird blend of C++ and Java with sprinkle of questionable feature naming). I finished the day in a meeting with Ralph (product customer) & Ian (senior software dev) getting a general outline of my first project!
+Wednesday was the first day where I started feeling productive. Began the day off with my first contribution to the daily, team stand-up, learnt most of C# basics (variable types, operator overloading, anonymous (delegate) methods etc., essentially C# is a weird blend of C++ and Java with sprinkle of questionable feature naming). I finished the day in a meeting with Ralph (product customer) & Ian (senior software dev) getting a general outline of my first project!
 
 ## Thursday
 Laid out project (high level user & functional) requirements, attended team meeting to see what is going on around the company outside the software dev team.
 
 ## Friday
-Received feedback for the document I wrote on Thursday, improved the document and proceeded with writing up the technical requirements draft. Also, spent a fair bit of time just chatting away about MCU and RPGs and getting to know other members of the team
+Received feedback for the document I wrote on Thursday, improved the document and proceeded with writing up the technical requirements draft. Also, spent a fair bit of time just chatting away about MCU and RPGs and getting to know other members of the team.
 
 # Other
 Spent few hours after work, on Thursday, Friday, and Sunday working on a 2D turn-based strategy game which I’ve been developing for ~2.5 weeks at that point. Most of the development was based around:
 
--  Refactoring
+- Refactoring
 - Adding few mock classes, which later were fleshed out into usable base objects
 - Incorporating property files
 - Improving error/log messages
