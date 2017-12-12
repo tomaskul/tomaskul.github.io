@@ -8,7 +8,7 @@ keywords: "placement, uni, university, blog, internship, software engineering, s
 
 **Word count:** 772
 
-**Week 12:** 30<sup>th</sup> Oct - 3<sup>rd</sup> Nov
+**Week 13:** 30<sup>th</sup> Oct - 3<sup>rd</sup> Nov
 
 # Placement
 ## Monday
