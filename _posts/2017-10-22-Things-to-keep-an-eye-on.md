@@ -30,3 +30,13 @@ So to ensure that I keep on top of it all (as much as I can anyway), without for
 
 - [DevHints](https://devhints.io/) : Software development cheatsheets
 - [Txt.fyi](https://txt.fyi/) : Dumbest publishing platform on the web
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) : Subtle Patterns; perfect for website backgrounds
+- [Fonts In Use](https://fontsinuse.com/in/2/formats/3/web) : Fonts
+
+## Stock Photos Sources
+
+- [Unspash](https://unsplash.com/)
+- [New Old Stock](https://nos.twnsnd.co/)
+- [Jay Mantri](http://jaymantri.com/)
+- 
+
