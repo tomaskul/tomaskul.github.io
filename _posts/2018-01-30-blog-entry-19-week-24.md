@@ -40,3 +40,8 @@ All of this sounds like more work than I originally anticipated, but a workaroun
 One of the means to dealing with this issue was……
 
 As you can tell this was starting to get out of hand, and luckily it was the end of the week. So, I noted the details down and left these issues do deal with on Monday.
+
+# Other
+- Mid-way through the week I had a small epiphany as to what my final year project might be. The overarching idea is there, however the scale, all the intricacies and amount of new technologies and algorithms I would have to learn is enough to sustain a small team (if it were to be done on enterprise scale, even medium size team with seasoned devs might face significant hurdles).
+
+I am not mentioning *any* details as this might be too big of a challenge and I won't work on it. But on the other hand, I do want to keep a reminder to myself in case I do go forth with it, that I thought of it around this time in 2018!
