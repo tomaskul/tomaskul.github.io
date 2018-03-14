@@ -21,6 +21,10 @@ So to ensure that I keep on top of it all (as much as I can anyway), without for
 - [Public MIT courses](https://www.youtube.com/user/MIT/playlists) : This has been around for a while, however new content is added somewhat regularly, so definitely worthwhile to keep an eye on for free educational resources.
 - [Links to CS courses and resources](https://github.com/prakhar1989/awesome-courses) : Appears to be semi-regularly updated, has some valuable resources outlined
 
+# Research
+
+- [A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem](https://arxiv.org/abs/1708.04215) : A paper on a "good-enough" TSP solution. As of adding this link, the paper is yet to be peer-reviewed.
+
 # AI
 
 - [Evolutionary Algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm) : Subset of evolutionary computation, a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection.
