@@ -6,6 +6,12 @@ description: "Markdown Cheatsheet Demo"
 keywords: "markdown, typography"
 ---
 
+| A | B ||
+| :--- | :--- | :--- |
+| ads <td colspan=2>C |
+    
+-------
+
 ## Typography Elements in One
 
 **Bold text**
