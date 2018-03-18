@@ -1,0 +1,7 @@
+- link: /projects
+  name: Projects
+- link: /about
+  name: About
+- link: /feed.xml
+  name: RSS
+  newtab: true
