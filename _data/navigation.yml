@@ -5,3 +5,6 @@
 - link: /feed.xml
   name: RSS
   newtab: true
+- link: /projects/audri/
+  name: Audri
+  newtab: true
