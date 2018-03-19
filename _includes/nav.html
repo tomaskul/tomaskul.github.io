@@ -5,7 +5,7 @@
         </h1>
       <ul class="navbar">
           {% for item in site.data.navigation %}
-            <li><a href="{{ item.link | prepend: site.baseurl }}" {% if item.newtab} target="_blank" {endif %}>
+            <li><a href="{{ item.link | prepend: site.baseurl }}" {% if item.newtab} target="_blank" {% endif %}>
                 {{ item.name }}
             </a></li>
           {% endfor %}
