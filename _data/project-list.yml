@@ -1,0 +1,34 @@
+- name: Audri - An Automated Driver
+  description: Implementation of a machine learning algorithm which simulates user demonstrated behaviour when driving on a high way. (Group project)
+  year: 2017
+  link: /audri/
+
+- name: C++ Game Prototype
+  description: Top-down shoot-em-up, bullet hell game, built using C++ and SDL2.
+  year: 2017
+  link: /cpp-game/
+
+- name: Image Processing Script
+  description: Matlab script which generates binary image, separating foreground plant from the background noise.
+  year: 2017
+  link: /image-processing-script/
+
+- name: Online Music Library
+  description: Database with a web front-end. Used MySQL as DBMS, HTML, CSS and PHP for the front-end with Javascript form validation.
+  year: 2016
+  link: /online-music-library/
+
+- name: Pebble Snake Game
+  description: Snake game for the pebble smartwatch. (Group project)
+  year: 2015
+  link: /pebble-snake/
+
+- name: 3D Models
+  description: College assignments which required planning, modelling and rendering of several varied complexity 3D models.
+  year: 2015
+  link: /3d-models/
+
+- name: Wipers Game
+  description: Top-down shooter game with educational focus (2nd battle of Ypres).
+  year: 2015
+  link: /wipers/
