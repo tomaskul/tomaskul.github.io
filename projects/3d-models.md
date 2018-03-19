@@ -9,5 +9,5 @@ blogs: false
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/a_P-5w0Nx7c?list=PL0mJH7knCCZlUrTw4wklamdtJu1Tu7uAI" frameborder="0" allowfullscreen></iframe></div>
 
-An assignment at college which required planning, modelling, and rendering of 6 varied complexity 3D models. The playlist above showcases 
-few of the rendered models I made (Quality is low due to slow CPU the rendering was done on).
+College assignment which required planning, modelling and rendering of several varied complexity 3D models. The playlist above showcases 
+few of the rendered models I made.
