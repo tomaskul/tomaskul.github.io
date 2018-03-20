@@ -21,7 +21,7 @@ highlighter : rouge
 
 source: ./
 destination: ./_site
-projecturl: ./projects
+projecturl: ./projects22
 
 # Sass configuration
 sass:
