@@ -68,8 +68,25 @@ hr {
   }
 }
 
+.nav-link {
+  color: $black-color;
+  padding-bottom: 0.05em;
+  border-bottom: 2px solid transparent;
+
+  @include transition(border 300ms linear);
+
+  &:hover,
+  &:focus,
+  &:active {
+    border-bottom: 2px solid $black-color;
+  }
+}
+
+
 .site-header {
-  background: #f2f2f2;
+  background: url(https://raw.githubusercontent.com/tomaskul/tomaskul.github.io/master/assets/images/header.png), 
+  linear-gradient(45deg, rgba(242,242,242,0.5),rgba(229,229,229,0.5));
+  background-blend-mode: overlay;
   border-bottom: 1px solid lighten($light-gray-color, 5%);
   margin-bottom: $small-spacing;
   min-height: 80px;
@@ -123,7 +140,7 @@ hr {
   }
 
   a {
-    @extend .link;
+    @extend .nav-link;
   }
 }
 
@@ -151,7 +168,6 @@ hr {
   .article-title {
     display: inline-block;
     width: 85%;
-    //border-bottom: 1px dashed lighten($light-gray-color, 10%);
   }
 
   .date-label {
@@ -269,8 +285,9 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
-// This applies from 0px to 600px
-@media (max-width: 600px) {
+// This applies from 0px to 450px
+
+@media (max-width: 450px) {
   .date-label {
     float: left !important;
     border: 0 !important;
@@ -295,6 +312,20 @@ hr {
     &:active {
       border-bottom: 2px solid transparent;
       color: $blue-color;
+    }
+  }
+
+  .navbar {
+    /* float: right;*/
+    margin: 0;
+    position: relative;
+    padding: 0;
+    pointer-events: all;
+    cursor: pointer;
+
+    li {
+      display: inline-block;
+      padding: 0 .6em;
     }
   }
 }
