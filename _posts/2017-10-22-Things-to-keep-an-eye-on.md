@@ -25,6 +25,10 @@ So to ensure that I keep on top of it all (as much as I can anyway), without for
 
 - [A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem](https://arxiv.org/abs/1708.04215) : A paper on a "good-enough" TSP solution. As of adding this link, the paper is yet to be peer-reviewed.
 
+# Mobile
+
+- [Google's Flutter Beta 1 Announcement](https://developers.googleblog.com/2018/02/announcing-flutter-beta-1.html?utm_campaign=devshow_series_announcingflutterbeta_030918&utm_source=gdev&utm_medium=yt-desc) : Details about resources and changes the framework brings to app development in Dart.
+
 # AI
 
 - [Evolutionary Algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm) : Subset of evolutionary computation, a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection.
