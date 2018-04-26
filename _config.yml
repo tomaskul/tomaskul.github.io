@@ -16,8 +16,14 @@ comments: false
 
 # Build settings
 permalink   : /:year/:title/
-markdown    : kramdown
 highlighter : rouge
+markdown    : Pandoc
+extensions:
+    - normalize
+    - smart
+    - mathjax
+    - csl: _styles/apa.csl
+    - bibliography: bibliography/references.bib
 
 source: ./
 destination: ./_site
@@ -45,11 +51,12 @@ og_locale: "en_UK"
 twitter_card: "summary_large_image"
 twitter_site: "@tomas__tweets"
 
-gems:
+plugins:
   - bourbon
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-toc
+  - jekyll-pandoc
 
 # navbar pages
 navbar:
