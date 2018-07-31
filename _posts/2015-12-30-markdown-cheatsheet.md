@@ -20,7 +20,7 @@ _Italic text_
 
 [Hyperlink](https://tomaskul.github.io/2015/markdown-cheatsheet/)
 
-```
+```md
 **Bold text**
 _Italic text_
 **_bold italic text_**
@@ -45,7 +45,7 @@ _Italic text_
 
 ###### H6 Heading
 
-```
+```md
 # H1 Heading
 ## H2 Heading
 ### H3 Heading
@@ -60,7 +60,7 @@ _Italic text_
 
 Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [[^1]]. You can even add more footnotes, with link! [[^2]]
 
-```
+```md
 [[^1]]
 [[^2]]
 ```
@@ -73,7 +73,7 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 
 **NOTE:** This theme does NOT support nested blockquotes.
 
-```
+```md
 > Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi
 ```
 
@@ -88,7 +88,7 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 - Or minuses
 + Or pluses
 
-```
+```md
 1. First order list item
 2. Second item
 
@@ -155,7 +155,7 @@ But let's throw in a <b>tag</b>.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-```
+```md
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -170,7 +170,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-```
+```md
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
@@ -203,7 +203,7 @@ ___
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-4FWJmHfLC0" frameborder="0" allowfullscreen></iframe></div>
 
-```
+```md
 <div class="video-container"><iframe src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe></div>
 ```
 
@@ -211,7 +211,7 @@ ___
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 
-```
+```md
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 ```
 
