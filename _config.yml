@@ -17,7 +17,7 @@ comments: false
 # Build settings
 permalink   : /:year/:title/
 highlighter : rouge
-markdown    : Pandoc
+markdown    : kramdown
 extensions:
     - normalize
     - smart
