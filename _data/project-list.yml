@@ -1,3 +1,8 @@
+- name: Industry Year Project
+  description: Full stack solution to overhaul data delivery to UKs DNOs.
+  year: 2018
+  link: /projects/yiiproject/
+
 - name: Audri - An Automated Driver
   description: Implementation of a machine learning algorithm which simulates user demonstrated behaviour when driving on a high way. (Group project)
   year: 2017
