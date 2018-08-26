@@ -5,6 +5,8 @@ year: 2018
 tech: "C#,.NET, ASP.NET, Javascript, Razor, SQL Server, Azure, Phabricator, SVN, Bootstrap"
 category: "Full-stack"
 blogs: true
+blog1: "Placement Weeks 45 & 46"
+blog1Link: https://tomaskul.github.io/2018/blog-entry-25-weeks-45-46/
 ---
 
 ### Brief
