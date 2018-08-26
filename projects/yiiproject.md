@@ -9,7 +9,7 @@ blog1: "Placement Weeks 45 & 46"
 blog1Link: https://tomaskul.github.io/2018/blog-entry-25-weeks-45-46/
 blog2: "Placement weeks 26 - 33"
 blog2Link: https://tomaskul.github.io/2018/blog-entry-21-weeks-26-33/
-blog3: "Weeks 14 - 17"
+blog3: "Placement Weeks 14 - 17"
 blog3Link: https://tomaskul.github.io/2017/blog-entry-14-Week1417/
 ---
 
