@@ -13,7 +13,7 @@ At the time of writing this [2018-09-27], I have completed (I think) my work on 
 
 Long term wise, I intend on implementing & test numerous other cryptography algorithms and tools used to break said ciphers and eventually transition to contributing to development of new cryptographic tools or optimising / improving current industry standard tools.
 
-Project GitHub repository: https://github.com/tomaskul/basic-Crypto2
+Project GitHub repository: [https://github.com/tomaskul/basic-Crypto2](https://github.com/tomaskul/basic-Crypto2)
 
 # References
 
