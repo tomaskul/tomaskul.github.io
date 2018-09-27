@@ -1,3 +1,8 @@
+- name: Cryptography Tools
+  description: Side project aiming to help further my understanding of basics of cryptography.
+  year: 2018
+  link: /projects/basic-crypto
+
 - name: Industry Year Project
   description: Full stack solution to overhaul data delivery to UKs DNOs.
   year: 2018
