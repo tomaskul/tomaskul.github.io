@@ -1,3 +1,7 @@
+- name: Android apps (x4)
+  description: Android apps developed in final year of the degree.
+  year: 2019
+  link: /projects/android-apps/
 - name: Cryptography Tools
   description: Side project aiming to help further my understanding of basics of cryptography.
   year: 2018
