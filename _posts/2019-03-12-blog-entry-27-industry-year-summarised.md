@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Entry #27 - Year industry summarised"
+title: "Blog Entry #27 – Year industry summarised"
 comments: false
 description: "Summarising my industry year experience. This has been written up as an expansion of the presentation I had to give to second year Computer Science students at the University of Nottingham, who were couple of months away from starting their placements."
 keywords: "placement, uni, university, blog, internship, software engineering, software development, presentation"
