@@ -3,7 +3,7 @@
 title: "Tomas"
 title2: "Kulvietis" # default: ""
 description: "Personal website of Tomas Kulvietis."
-keywords: "SEO, blog, web, minimalist, University of Nottingham, Computer Science, Student, Programming, Placements"
+keywords: "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming, Placements"
 url: https://tomaskul.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -36,10 +36,10 @@ sass:
 # Author settings
 author:
   name     : "Tomas Kulvietis"
-  job      : "Computer Science Student"
-  bio      : "Check out some of the projects I've worked on in the past."
+  job      : "Software Developer"
+  bio      : "Check out some my past projects."
   thumb    : /assets/images/me.png
-  email    : gitcontact.tomas@gmail.com
+  email    : 
   url      : https://tomaskul.github.io
   github   : https://github.com/tomaskul
   twitter  : https://twitter.com/tomas__tweets
