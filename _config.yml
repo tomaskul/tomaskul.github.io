@@ -1,9 +1,9 @@
 
 # SEO settings
-title: "Tomas"
-title2: "Kulvietis" # default: ""
-description: "Personal website of Tomas Kulvietis."
-keywords: "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming, Placements"
+title: "Tomas Kulvietis"
+title2: "" # default: ""
+description: "Personal website of Tomas Kulvietis"
+keywords: "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming"
 url: https://tomaskul.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -37,7 +37,7 @@ sass:
 author:
   name     : "Tomas Kulvietis"
   job      : "Software Developer"
-  bio      : "Check out some my past projects."
+  bio      : "Check out some my past projects:"
   thumb    : /assets/images/me.png
   email    : 
   url      : https://tomaskul.github.io
