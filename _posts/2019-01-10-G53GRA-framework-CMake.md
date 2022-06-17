@@ -17,7 +17,7 @@ Below I outlined the solution that got this working on my machine, however coupl
 ## Solution
 ### Step 1 - Install FreeGLUT
 Ensure you have the necessary [freeglut](http://freeglut.sourceforge.net/) library installed on your machine. For debian based distributions, use:
-```TERMINAL
+```shell
 sudo apt-get install freeglut3-dev
 ```
 
@@ -27,21 +27,28 @@ Use CLion's "Import Project from Sources" option to import the project and to au
 ### Step 3 - Update #include's
 In `Engine.h` & `Camera.h` add 
 
-```
+```cpp
 #elif __linux__
 #include <GL/glut.h> 
 ```
 
 And in `Texture.cpp`, within `#else` add:
 
-```
+```c++
 #ifdef __linux__
+
 #include <GL/gl.h>
+
 #include <GL/glut.h>
+
 #else
+
 #include <OpenGL/OpenGL.h>
+
 #include <GLUT/glut.h>
+
 #endif
+
 ```
 
 - ~~In `Engine.h`, `Camera.h` & `Texture.cpp` change `#include <GLUT/glut.h>` to `#include <GL/glut.h>`~~
@@ -51,13 +58,13 @@ And in `Texture.cpp`, within `#else` add:
 Now, at this point I had numerous "'undefined reference to 'gl____'" errors, which are caused by the linker, to fix these you simply need to provide correct file paths and here is where CMake file mentioned in an earlier step comes in.
 
 At the top of the CMake, after CMake version and project name are set add the following commands:
-```CMAKE
+```cmake
 find_package(OpenGL REQUIRED)
 find_package(GLUT REQUIRED)
 ```
 
 These (`find_package()`) commands will locate and load into memory the locations of the necessary libraries. Lastly, at the very end of the CMake add the following command, don't forget to replace `<project_name>` with the name of your project:
 
-```CMAKE
+```cmake
 target_link_libraries(<project_name> ${OPENGL_LIBRARIES} ${GLUT_LIBRARY})
 ```
