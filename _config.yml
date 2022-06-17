@@ -1,20 +1,11 @@
-# Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+# Site/SEO settings
+title_left    : "Tomas Kulvietis"
+title_right   : "" # default: ""
+keywords      : "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming"
+url           : https://tomaskul.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-# SEO settings
-title: "Tomas Kulvietis"
-title2: "" # default: ""
-description: "Personal website of Tomas Kulvietis"
-keywords: "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming"
-url: https://tomaskul.github.io # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
 repo: https://github.com/tomaskul/tomaskul.github.io
