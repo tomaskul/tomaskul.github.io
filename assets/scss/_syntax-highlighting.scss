@@ -7,7 +7,7 @@
   color: #ffffff;
 
   .highlighter-rouge &, &, .hll, pre, code {
-    background-color: #2b2b2b !important;
+    background-color: lighten($light-gray-color, 15%) !important;
   }
 
   table td {
