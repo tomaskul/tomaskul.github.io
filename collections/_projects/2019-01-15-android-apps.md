@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Android Apps"
-year: 2019
+title: Android Apps (x4)
+description: 4x Android apps developed in final year of the degree.
 tech: "Java,Android OS,Android Studio,Mapbox API,SQLite,ADB,AVD"
 category: "Education/Apps"
 blogs: false

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Cryptography tools"
-year: 2018
+title: Cryptography tools
+description: Side project to help further my understanding of cryptography basics.
 tech: "C#,.NET"
 category: "Tooling/Education"
 blogs: false

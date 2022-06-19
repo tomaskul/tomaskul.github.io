@@ -1,16 +1,16 @@
 ---
 layout: project
-title: "Industry Year Project"
-year: 2018
+title: Industry Year Project
+description: Full stack solution to overhaul data delivery to UKs DNOs.
 tech: "C#,.NET, ASP.NET, Javascript, Razor, SQL Server, Azure, Phabricator, SVN, Bootstrap"
 category: "Full-stack"
 blogs: true
 blog1: "Placement Weeks 45 & 46"
-blog1Link: https://tomaskul.github.io/2018/blog-entry-25-weeks-45-46/
+blog1Link: https://tomaskul.github.io/archived_posts/2018-07-31-blog-entry-25-weeks-45-46/
 blog2: "Placement weeks 26 - 33"
-blog2Link: https://tomaskul.github.io/2018/blog-entry-21-weeks-26-33/
+blog2Link: https://tomaskul.github.io/archived_posts/2018-03-02-blog-entry-21-weeks-26-33/
 blog3: "Placement Weeks 14 - 17"
-blog3Link: https://tomaskul.github.io/2017/blog-entry-14-Week1417/
+blog3Link: https://tomaskul.github.io/archived_posts/2017-12-12-blog-entry-14-Week1417/
 ---
 
 ### Brief
