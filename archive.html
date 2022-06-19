@@ -1,7 +1,7 @@
 --- 
 layout: default 
-title: Blog 
-subheading: Couple of posts I've written... Enjoy!
+title: Archive
+subheading: Collection of archived blog posts.
 ---
 
 <article class="page container">
@@ -16,10 +16,10 @@ subheading: Couple of posts I've written... Enjoy!
 <section class="post-list">
     <div class="container">
         {% assign postsByYear =
-            site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-        {% for year in postsByYear %}
+            site.archived_posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+        {% for year in postsByYear reversed %}
             <h2 class="category-title">{{ year.name }}</h2>
-            {% for post in year.items %}
+            {% for post in year.items reversed %}
                 <article class="post-item">
                     <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
                     <div class="article-title">

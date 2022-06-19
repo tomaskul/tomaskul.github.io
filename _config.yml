@@ -27,6 +27,11 @@ extensions:
 source      : ./
 destination : ./_site
 
+collections_dir: collections
+collections:
+  archived_posts:
+    output: true
+
 # Sass configuration
 sass:
   sass_dir  : assets/scss
