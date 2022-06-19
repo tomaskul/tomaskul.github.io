@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Image Processing Script"
-year: 2017
+title: Image Processing Script
+description: Matlab classifier script to identify foreground plant from background.
 tech: "MatLab R2015b"
 category: "Script"
 blogs: false

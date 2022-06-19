@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Online Music Library"
-year: 2016
+title: Music Library
+description: MySQL DB with PHP/JS front-end for Y1 Uni assignment.
 tech: "HTML, CSS, PHP, MySQL, JavaScript"
 category: "Web"
 blogs: false

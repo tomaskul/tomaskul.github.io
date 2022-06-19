@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Pebble Snake"
-year: 2015
+title: Pebble Snake
+description: Snake game for the Pebble smartwatch (hackathon group project).
 tech: "C, Pebble API"
 category: "Game"
 blogs: false
