@@ -1,6 +1,7 @@
 --- 
 layout: default 
-title: Archive 
+title: Archive
+subheading: Collection of archived blog posts.
 ---
 
 <article class="page container">
@@ -8,24 +9,24 @@ title: Archive
         <h1 class="page-title">{{ page.title }}</h1>
     </header>
     <div class="page-content">
-        <p>Archived blog posts.</p>
+        <p>{{ page.subheading }}</p>
     </div>
 </article>
 
 <section class="post-list">
     <div class="container">
-        {% for post in site.archived_posts %}
-        {% assign currentdate = post.date | date: "%Y" %}
-        {% if currentdate != date %}
-            <h2 class="category-title">{{ currentdate }}</h2>
-            {% assign date = currentdate %} 
-        {% endif %}
-        <article class="post-item">
-            <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
-            <div class="article-title">
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </div>
-        </article>
+        {% assign postsByYear =
+            site.archived_posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+        {% for year in postsByYear reversed %}
+            <h2 class="category-title">{{ year.name }}</h2>
+            {% for post in year.items reversed %}
+                <article class="post-item">
+                    <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+                    <div class="article-title">
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </div>
+                </article>
+            {% endfor %}
         {% endfor %}
     </div>
 </section>
