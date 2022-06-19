@@ -1,6 +1,7 @@
 --- 
 layout: default 
 title: Blog 
+subheading: Couple of posts I've written... Enjoy!
 ---
 
 <article class="page container">
@@ -8,24 +9,24 @@ title: Blog
         <h1 class="page-title">{{ page.title }}</h1>
     </header>
     <div class="page-content">
-        <p>Couple of posts I've written... Enjoy!</p>
+        <p>{{ page.subheading }}</p>
     </div>
 </article>
 
 <section class="post-list">
     <div class="container">
-        {% for post in site.posts %} {% unless post.next %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% else %} {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date: '%Y'
-        }}{% endcapture %} {% if year != nyear %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% endif %} {% endunless %}
-        <article class="post-item">
-            <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
-            <div class="article-title">
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </div>
-        </article>
+        {% assign postsByYear =
+            site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+        {% for year in postsByYear %}
+            <h2 class="category-title">{{ year.name }}</h2>
+            {% for post in year.items %}
+                <article class="post-item">
+                    <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+                    <div class="article-title">
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </div>
+                </article>
+            {% endfor %}
         {% endfor %}
     </div>
 </section>
