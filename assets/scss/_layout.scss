@@ -165,7 +165,6 @@ hr {
   }
 
   .date-label {
-    //border: 1px solid lighten($light-gray-color, 10%);
     padding: 0 0.2em;
     margin-left: 1em;
     margin-top: 2px;
@@ -211,18 +210,6 @@ hr {
 
   .prev, .next {
     @extend .link;
-  }
-}
-
-.share {
-  border-top: 0.2em dashed lighten($light-gray-color, 13%);
-  padding-top: $base-spacing;
-  margin-top: $base-spacing * 2;
-
-  p {
-    margin: 0 5em;
-    font-size: rem(14);
-    color: $medium-gray-color;
   }
 }
 
