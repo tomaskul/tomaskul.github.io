@@ -84,8 +84,7 @@ hr {
 
 
 .site-header {
-  background: url(https://raw.githubusercontent.com/tomaskul/tomaskul.github.io/master/assets/images/header.png), 
-  linear-gradient(45deg, rgba(242,242,242,0.5),rgba(229,229,229,0.5));
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
   background-blend-mode: overlay;
   border-bottom: 1px solid lighten($light-gray-color, 5%);
   margin-bottom: $small-spacing;
