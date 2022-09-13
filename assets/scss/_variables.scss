@@ -1,6 +1,5 @@
 // Typography
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$base-font-family: 'Overpass Mono', monospace;
+$base-font-family: 'Courier New', 'Lucida Sans Typewriter', monospace;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
@@ -17,10 +16,9 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$primary-color: #000;
-$action-color: $primary-color;
-$white-color: #fff;
 $black-color: #000;
+$action-color: $black-color;
+$white-color: #fff;
 $blue-color: #0086B3;
 $dark-gray-color: #333;
 $medium-gray-color: #999;
