@@ -2,11 +2,11 @@
 layout: post
 title: "Homebrew Git cheat sheet"
 comments: false
-description: ""
+description: "Possibly useful git commands."
 keywords: "git, cheatsheet"
 ---
 
-There are a ton of very useful git cheat sheets around (on top of a great documentation).
+There are a ton of very useful git cheat sheets around, on top of a great documentation (which is where alongside StackOverflow I find myself when things get fun). I started putting together this list ~3 years ago and finally decided to move from my notepad to here. I'll be updating this over time.
 
 # Branches
 ## Permanently remove commits from remote branch
