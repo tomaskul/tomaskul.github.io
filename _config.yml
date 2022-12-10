@@ -42,20 +42,20 @@ sass:
 # Author settings
 author:
   name     : "Tomas Kulvietis"
-  job      : "Software Developer"
+  job      : "Software Engineer"
   bio      : "Check out some my past projects:"
   thumb    : /assets/images/me.png
   email    : 
   url      : https://tomaskul.github.io
   github   : https://github.com/tomaskul
-  twitter  : https://twitter.com/tomas__tweets
+  twitter  : 
   facebook : 
   linkedin : https://www.linkedin.com/in/tomas-kulvietis/
 
 # social settings
 og_locale: "en_UK"
-twitter_card: "summary_large_image"
-twitter_site: "@tomas__tweets"
+twitter_card: ""
+twitter_site: ""
 
 plugins:
   - bourbon
