@@ -10,27 +10,28 @@ There are a ton of very useful git cheat sheets around, on top of a great docume
 
 # Branches
 ## Permanently remove commits from remote branch
-```powershell
+```shell
 git reset --hard <last.working.commit.id>
 git push --force
 ```
 
 ## Push local branch to remote
-```powershell
+```shell
 git push -u origin <branch.name>
 ```
 
 ## Delete local branches for which remote tracking branches have been pruned
 Source: [StackOverflow](https://stackoverflow.com/a/46192689/4186734) 
-```powershell
+```shell
 git checkout main
 git fetch -p
 git branch -vv | grep ': gone]'|  grep -v "\*" | awk '{ print $1; }' | xargs -r git branch -d
 ```
 
 # Tags
+
 | Goal | Command |
-| ----- | ----- |
+| :--- | :--- |
 | List | `git tag -l` |
 | Create annotated tag | `git tag -a <name> -m "<tag.message>"` |
 | Push tag to remote (git push doesn't work) | `git push origin --tags` |
@@ -40,11 +41,11 @@ git branch -vv | grep ': gone]'|  grep -v "\*" | awk '{ print $1; }' | xargs -r 
 # Commits
 ## Undo local, unpushed commit(s)
 `n` is number of commits to undo. `--soft` keep changes, `--hard` discards commits and doesn't keep changes.
-```powershell
+```shell
 git reset --soft HEAD~n
 ```
 
 ## Check out file from remote
-```powershell
+```shell
 git checkout origin/<branch.name> -- <path.to.file>
 ```
