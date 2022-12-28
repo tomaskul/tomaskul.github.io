@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "First taste of bikepacking"
+title: "Bikepacking Alps"
 comments: false
-description: "Breakdown of my first real bikepacking trip, covering what I got up to, what I learnt and what I'd change next time around."
+description: "Breakdown of my first big bikepacking trip, covering what I got up to, what I learnt and what I'd change next time around."
 keywords: "bikepacking, cycling, alps, France, travel, leisure, 2019"
 ---
 
-This post is a *slight* departure from what I usually write about, but not being a one dimensional being, I have hobbies that aren't related to programming/design/etc., and couple of them fall under the umbrella of bikepacking. I won't dwell into what bikepacking is and what it entails due to vast amount of material on the topic, but at surface level it's simply travelling via a bike and carrying all the necessities to be self-sufficient. There's much more to it, and I've found it to easily be one of the best ways to travel and see the world. For about a year now, I've been pushing myself towards bikepacking, all of which lead me to a week-long trip to the Alps.
+This post is a *slight* departure from what I usually write about, but not being a one dimensional being, I have hobbies that aren't related to programming/design/etc., and couple of them fall under the umbrella of bikepacking. I won't dwell into what bikepacking is and what it entails due to vast amount of material on the topic, but at surface level it's simply traveling via a bike and carrying all the necessities to be self-sufficient. There's much more to it, and I've found it to easily be one of the best ways to travel and see the world. For about a year now, I've been pushing myself towards bikepacking, all of which lead me to a week-long trip to the Alps.
 
 The plan for the week was for me to cycle from UK to French Alps, ride some of the most iconic roads on cycling and alpine map (i.e., Alpe D'Huez, Col de L'Iseran) and return, all by two wheels, ferries and couple of trains. For this trip, I've combined my love for mountains, desire to experience bikepacking and to have a fun holiday. Not wanting to overwhelm myself I sidelined the camping aspect of bikepacking and decided to stay at hotels. While this upped the price of the trip and reduced the length of the trip, I thought extra comfort would be worthwhile (to find out whether it was, read on!).
 
