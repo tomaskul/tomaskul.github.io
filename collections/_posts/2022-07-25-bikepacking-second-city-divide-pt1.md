@@ -3,7 +3,7 @@ layout: post
 title: "Bikepacking Second City Divide 2022 (Pt.1)"
 comments: false
 description: "TODO"
-keywords: "bikepacking, cycling, SCD, SCD_00, Second City Divide, gravel, Glasgow, Manchester, travel, leisure, 2022, Scotland, rough stuff"
+keywords: "bikepacking, cycling, SCD, SCD_00, Second City Divide, gravel, Glasgow, Manchester, travel, leisure, 2022, Scotland, rough stuff, touring, Whitlee windfarm, Haltwhistle, Hadrian's wall"
 ---
 
 A week before starting a new job and without any adventures/trips planned I chose [Second City Divide (SCD)](https://www.secondcitydivide.cc/) - a scenic ~600km "all-road" route from Glasgow to Manchester, packed my bags, booked a train ticket and set off. SCD has been on my radar for some time and has mostly been gathering dust, as one of those "some day" projects.
@@ -76,11 +76,5 @@ We rode over Hardside pass with wet and muddy Cross Fell being covered by a heav
 | ![SCD-Map4]({{ site.url }}/assets/images/scd22/route_day4.png) | ~89km, ~1390m asc,<br/> 4h36min moving time, <br/> [Strava Activity](https://www.strava.com/activities/7543936477), [Komoot Tour](https://www.komoot.com/tour/861994922)|
 
 
-# Bonus / Back to line
-https://www.strava.com/activities/7743490408
-
-# Part 4 / Cont
-https://www.strava.com/activities/7751675430
-
-# Part 5
-https://www.strava.com/activities/7754919721 
+# Mass finish
+Route organizers set a mass finish date for the first weekend in September, and I decided to return to finish the route. You can read about that [here](2022-09-02-bikepacking-second-city-divide-pt2.md)
