@@ -46,6 +46,14 @@ Skip to Cam high road, a very long and barely ridable (at least with my 37mm tyr
 
 
 # Sunday 4th
+![SCD22-7-lane]({{ site.url }}/assets/images/scd22/day7-lane.jpg)
+
+
+|||
+| :--- | ---: |
+| ![SCD22-7-hill]({{ site.url }}/assets/images/scd22/day7-hill.jpg) | ![SCD22-7-switchbacks]({{ site.url }}/assets/images/scd22/day7-switchbacks.jpg) |
+
+![SCD22-7-manchester]({{ site.url }}/assets/images/scd22/day7-manchester.jpg)
 
 |||
 | :--- | ---: |
