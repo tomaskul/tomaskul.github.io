@@ -6,9 +6,11 @@ description: "TODO"
 keywords: "bikepacking, cycling, SCD, SCD_00, Second City Divide, gravel, Glasgow, Manchester, travel, leisure, 2022, Scotland, rough stuff, touring, Whitlee windfarm, Haltwhistle, Hadrian's wall, Penrith, Lake District, Kendal"
 ---
 
-A week before starting a new job & without any adventures/trips planned, I chose [Second City Divide (SCD)](https://www.secondcitydivide.cc/) ~600km "all-road", scenic route from Glasgow to Manchester; packed my bags, booked a train ticket & set off. SCD has been on my radar for some time and has mostly been gathering dust, as one of those "some day" projects.
+A week before starting a new job & without any adventures/trips planned, I chose [Second City Divide (SCD)](https://www.secondcitydivide.cc/) ~600km "all-road", scenic route from Glasgow to Manchester; packed my bags, booked a one way train ticket & set off. SCD has been on my radar for some time and has mostly been gathering dust, as one of those "some day" projects.
 
-FAQ on the website mentions "3 to 6 days - don’t underestimate it". Having weighed up route profile, my fitness, (moderate) experience, and wish for a relaxed trip [[^1]] I earmarked 4-5 day completion. Due to remoteness and wish to wing as much of the trip as possible I wild camped all along the route, following leave no trace principles (there are campsites, hotels and bothies on/near the route if you chose the more comfortable approach).
+> "3 to 6 days - don’t underestimate it" - SCD FAQ
+
+Having weighed up route profile, my fitness, (moderate) experience, and wish for a relaxed trip [[^1]] I earmarked 4-5 day completion. Due to remoteness and wish to wing as much of the trip as possible I wild camped all along the route, following leave no trace principles (there are campsites, hotels and bothies on/near the route if you chose the more comfortable approach).
 
 # Monday 25th - Late start
 ![SCD22-1-wind-farm]({{ site.url }}/assets/images/scd22/day1-wind-farm.jpg)
@@ -17,7 +19,7 @@ I traveled from Liverpool Lime Street (LIV) to Glasgow Central (GLC) via change 
 
 After arriving in Glasgow ~6pm, I bought abysmal fish and chips from a chippy around the corner from the station. Even whilst hungry, I barely managed to eat half of the portion. I began the ride ~18:38 with 2h of daylight remaining.
 
-Start of the route was quite underwhelming, busy city and suburban roads led to standard british farm roads, which led to a dead-end road with several properties. This was first of many times I questioned the route. As it turned out, I had to wade through waist high grass field behind someone's bad garden to reach a forest track.
+Start of the route was quite underwhelming, busy city and suburban roads led to standard british farm roads, which led to a dead-end road with several properties. This was first of many times I questioned the route. As it turned out, I had to wade through waist high grass field behind someone's back garden to reach a forest track.
 
 Having learnt from [my midge related mistakes last year](http://tomaskul.github.io/2021/bikepacking-Scottish-NC500), I applied anti-bug spray and threw on a head net (worth the investment!) as soon as I found something to lean my bike against. Riding through Whitlee wind farm was fun and definitely a good taster of what's to come later: beautiful, expansive, big sky views with hardly a soul in sight.
 
@@ -57,7 +59,7 @@ Woke up to sound of sheep's bah's, and sunlight warming half of my tent. Shouldn
 
 ![SCD22-3-kielder]({{ site.url }}/assets/images/scd22/day3-kielder.jpg)
 
-Descend into Kielder forest was as nice as any Scottish equivalent to my pleasant surprise. I was riding on getting food at the visitor centre for a late breakfast/early lunch. On arrival all places seemed too commercial to be welcoming and inclusive of cyclists. When I was about to either throw my bike over into the beer garden of a near by kitchen/bar or leave I bumped into another touring ready cyclist - Stuart, who was also riding SCD!
+Descend into Kielder forest was as nice as any Scottish equivalent to my pleasant surprise. I was riding on getting food at the visitor centre for a late breakfast/early lunch. On arrival all places seemed too commercial to be welcoming and inclusive of cyclists. When I was about to either throw my bike over into the beer garden of a near by kitchen/bar or leave, I bumped into another touring ready cyclist - Stuart, who was also exploring SCD!
 
 We left our bikes behind, got a table and a meal with bunch of drinks each as we shared stories and experiences along the route. It turns out he set off Monday morning, and even with half-day lead I managed to overtake him. Possibly because I opted out for grim road side 'camp spots' opposed to comfy bothies! - (not a brag, should've stopped at least one bothy)
 
@@ -67,7 +69,7 @@ We carried on together through remoteness of northern England and Hadrian's wall
 
 |||
 | :--- | ---: |
-| ![SCD-Map3-1]({{ site.url }}/assets/images/scd22/route_day3-1.png) | ~15km, ~350m asc,<br/> 1h moving time, <br/> [Strava Activity](https://www.strava.com/activities/7542804006), [Komoot Tour](https://www.komoot.com/tour/861657776)|
+| ![SCD-Map3-1]({{ site.url }}/assets/images/scd22/route_day3-1.png) | Searching for signal,<br/>~15km, ~350m asc,<br/> 1h moving time, <br/> [Strava Activity](https://www.strava.com/activities/7542804006), [Komoot Tour](https://www.komoot.com/tour/861657776)|
 | ![SCD-Map3-2]({{ site.url }}/assets/images/scd22/route_day3-2.png) | ~82km, ~1130m asc,<br/> 5h moving time, <br/> [Strava Activity](https://www.strava.com/activities/7543929687), [Komoot Tour](https://www.komoot.com/tour/861992254)|
 
 # Thursday 28th - Calling it a day

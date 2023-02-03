@@ -6,10 +6,12 @@ description: "TODO"
 keywords: "bikepacking, cycling, SCD, SCD_00, Second City Divide, gravel, Glasgow, Manchester, travel, leisure, 2022, Scotland, rough stuff, YHA Alston, Cross Fell, hike-a-bike, Tan Hill Inn, Cam high road, Ribblehead Viaduct, Forest of Bowland"
 ---
 
-Read [part 1 here](http://tomaskul.github.io/2022/bikepacking-second-city-divide-pt1/). I thoroughly enjoyed first half of the route, finishing it, and having a chat about the experience with others over a pint sounded quite enticing to me. Working in 271km (>6000m of ascent) around a full time job meant it would be a long and tough weekend expedition.
+[Part 1](http://tomaskul.github.io/2022/bikepacking-second-city-divide-pt1/) | [SCD Website](https://www.secondcitydivide.cc/)
+
+I thoroughly enjoyed first half of the route, finishing it, and having a chat about the experience with others over a pint sounded quite enticing to me. Working in 271km (>6000m of ascent) around a full time job meant it would be a long and tough weekend expedition.
 
 # Friday 2nd - Back to the line
-I've religiously stook to the line during initial attempt, so it was only right that I'd pick up _exactly_ where I left off (unfortunately, Stuart couldn't make it for this mad dash). To maximize my chances to reach the finish line and get back home in time, I booked a single night stay in the YHA Alston, which meant I could resume the route first thing in the morning.
+I've religiously stook to the line during initial attempt, so it was only right that I'd pick up _exactly_ where I left off (unfortunately, Stuart couldn't make it for this mad dash). To maximize my chances to reach the finish line and get back home in time, I booked a single night stay in the YHA Alston, which meant I could resume the route first thing Saturday morning.
 
 First thing after work on Friday, I jumped on a train to Penrith (luckily no cancellations this time) [[^1]]. From there I followed C2C route over Hartside pass back into North Pennines AONB. Hostel is very accommodating of cyclists, clean and comfortable with friendly owners, would recommend it as a stop. After check-in I grabbed a hot pizza and some snacks for Saturday from near by shop/gas station.
 
@@ -22,13 +24,13 @@ Poor night's sleep in anticipation of the day ahead made for an easy, pre-dawn w
 
 | ![SCD22-6-out]({{ site.url }}/assets/images/scd22/day6-out.jpg) | ![SCD22-6-moor]({{ site.url }}/assets/images/scd22/day6-moor.jpg) |
 
-Heading up Cross Fell was nice and gentle at first, but as elevation rose, visibility declined (cloud sitting atop the moor might have something to do with it). Trail at times descended into a rock fall - not great for either riding nor hike-a-bike. This proved notably more difficult than anticipated, taking several hours to reach the peak (picture below). Descent wasn't much easier either. Winding grassy path down a steep hillside was quite treacherous in the wet (luckily visibility was improving due to strong winds). Swampy/marshy ponds scattered along the trail downhill bathed me and my bike in mud despite my best attempts at staying presentable.
+Heading up Cross Fell was nice and gentle at first, but as elevation rose, visibility declined (cloud sitting atop the moor might have something to do with it). Trail at times descended into a rock fall - not great for either riding nor hike-a-bike. This proved notably more difficult than anticipated, taking several hours to reach the peak (pictured below). Descent wasn't much easier either. Winding grassy path down a steep hillside was quite treacherous in the wet (luckily visibility was improving due to strong winds). Swampy/marshy ponds scattered along the trail downhill bathed me and my bike in mud, despite my best attempts at staying presentable.
 
 ![SCD22-6-moor]({{ site.url }}/assets/images/scd22/day6-cross-fell.jpg)
 
-Tracing the bottom of the hills was nice, even considering the headwind, things were quite smooth for a little while. 
+Tracing the bottom of the hills was nice, even with headwind, things were quite smooth for a little while. 
 
-That's when I rolled into an MOD firing range, red flags flying high didn't deter me, after all, I had a gpx to trust! Semi-automatic guns and rocket launcher (???) echoed in the distance as dark, but clear thoughts ran through my mind. Sounds only got louder. Catching a glimpse of couple cars gave me hope (for a change). Crested a little hill, I encountered a small battalion blocking the road. Luckily they let me through without a bullet through a tire. One of the soldiers even encouraged me as I rode past.
+That's when I rolled into an Ministry of Defense firing range, red flags flying high didn't deter me, after all, I had a gpx to trust! Semi-automatic guns and rocket launcher (???) echoed in the distance as dark, but clear thoughts ran through my mind. Sounds only got louder. Catching a glimpse of couple cars gave me hope (for a change). Crested a little hill, I encountered a small battalion blocking the road. Luckily they let me through without a bullet through a tire. One of the soldiers even encouraged me as I rode past.
 
 From there on I slowly, but surely bonked on the way to Tan Hill Inn (highest pub in England), I managed to persevere and get up the main ascent, but any incline thereafter, would force me to walk. Like a desert oasis, roof of the inn appeared in the distance. Unluckily for me, oasis didn't serve food for another hour. While rest was in order, it did feel like a waste of an hour.
 
@@ -40,9 +42,9 @@ Skip to Cam high road, a very long and barely ridable (at least with my 37mm tyr
 
 ![SCD22-6-moor]({{ site.url }}/assets/images/scd22/day6-high-road.jpg)
 
-Somewhere high in the hills, the road turns becomes paved, it felt truly blissful having order of magnitude fewer vibrations through my sore hands. Before enjoying the descent, some layering up was needed as rain clouds were rolling in from all directions. Ribblehead Viaduct is a fantastic piece of engineering, but what my eyes were firmly set on the station inn menu. Unluckily, again - all the tables were reserved. Ingleton Co-op ended up being my dinner spot. Whilst browsing/raiding the fridge I clocked couple people near my bike outside the shop, who later turned out to be Clare & Ed! While we parted ways in the town as I initially decided to call it a night early due to fatigue, seeing them carry on into the dark made me overcome the initial slump and chase them. We ended up riding up to Forest of Bowland AONB together, where I finally called it a night.
+Somewhere high in the hills, the road turns becomes paved, it felt truly blissful having order of magnitude fewer vibrations through my sore hands. Before enjoying the descent, some layering up was needed as rain clouds were rolling in from all directions. Ribblehead Viaduct is a fantastic piece of engineering, but what my eyes were firmly set on, was The Station Inn menu. Unluckily, again - all the tables were reserved. Ingleton Co-op ended up being my dinner spot few miles up the road. Whilst browsing/raiding the fridge I clocked couple people near my bike outside the shop, who later turned out to be Clare & Ed! While we parted ways in the town as I initially decided to call it a night early due to fatigue, seeing them carry on into the dark made me overcome the initial slump and chase them. We ended up riding up to Forest of Bowland AONB together, where I finally called it a night.
 
-I watched Clare & Ed ride into the night, as I hurriedly pitched my tent on lower slopes of the moor. 
+I watched Clare & Ed ride into the night, as I hurriedly pitched my tent on lower slopes of the moor.
 
 |||
 | :--- | ---: |
@@ -70,7 +72,7 @@ High above Bury, I caught first glimpses of Manchester skyline. Finishing the ri
 
 ![SCD22-7-manchester]({{ site.url }}/assets/images/scd22/day7-manchester.jpg)
 
-Rolling into Manchester wasn't as difficult as I had initially feared, but finding the ~mass~ mini finish location proved to be troublesome, but very much worth it.
+Rolling into Manchester wasn't as difficult as I had initially feared, but finding the ~~mass~~ mini finish location proved to be troublesome, but very much worth it.
 
 |||
 | :--- | ---: |
@@ -81,8 +83,8 @@ Rolling into Manchester wasn't as difficult as I had initially feared, but findi
 - Midge repellent spray & a head net are definitely worth packing
 - Bring reliable waterproofs
 - Having a map/list of public bathrooms/inns/restaurants is a worthwhile investment
-- 
-
+- Northern 2/3rds of the route are some of the most remote I have experienced within UK, be self-sufficient
+- Don't feed the Glasman
 
 ---
 # Footnotes:
