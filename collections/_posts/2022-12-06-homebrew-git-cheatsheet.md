@@ -50,14 +50,30 @@ git reset --soft HEAD~n
 git checkout origin/<branch.name> -- <path.to.file>
 ```
 
-# Rebase in squash-commit repo
+# Rebase
 **NOTE:** I'm not a rebase expert, create backup tag before forcing any changes & proceed with caution.
 
+## Rebase
+1. `git checkout <rebase-target-branch>`
+1. `git checkout -b <intermediate-branch>`
+1. Cherry-pick from `<work-branch>` into `<intermediate-branch>`
+1. `git checkout <work-branch>`  
+1. `git reset --hard <intermediate-branch>`
+1. `git push --force`
+
+## Rebase in squash-commit repo
 There might be an easier approach, but this has worked quite well. In a repo where PR/MRs follow squash-commit policy, merges from `main` to `feature` branches aren't desired, and `feature` branch is `n` merges behind `main`. To perform a rebase closer to what one would expect (i.e., only `feature` branch changes on top of `main`, without existing commits re-hashed):
 - Rebase `feature` onto updated `main`
 - Run `git reflog`, find commit with most recent `feature` branch commit, note ref (i.e., `HEAD@{25}`)
 - Type `q` to exit `reflog`
 - Run `git reset --hard HEAD@{n}` to discard duplicate changes
 - Run `git push --force` to update remote and discard duplicate changes in remote
+
+# Submodules
+## Import submodules recursively
+`git submodule update --init --remote --recursive`
+
+## Undo submodule updates locally
+`git restore . --recurse-submodules`
 
 Source: [StackOverflow](https://stackoverflow.com/questions/134882/undoing-a-git-rebase).
