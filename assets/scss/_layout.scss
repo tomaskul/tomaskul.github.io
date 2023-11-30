@@ -257,9 +257,9 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
-// This applies from 0px to 450px
+// This applies from 0px to 560px
 
-@media (max-width: 450px) {
+@media (max-width: 560px) {
   .date-label {
     float: left !important;
     border: 0 !important;
