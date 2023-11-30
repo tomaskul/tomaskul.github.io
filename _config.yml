@@ -1,7 +1,7 @@
 # Site/SEO settings
 title_left    : "Tomas Kulvietis"
 title_right   : "" # default: ""
-keywords      : "SEO, blog, web, minimalist, Software Developer, C#, .NET, University of Nottingham, Computer Science, Student, Programming"
+keywords      : "Tomas Kulvietis, C#, .NET, Golang, Software Developer, Software Engineer, Liverpool, UK, North West UK"
 url           : https://tomaskul.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
@@ -10,7 +10,7 @@ cover         : "" # image uri like logo/cover image for site seo
 google_analytics: UA-XXXXX-XX
 repo: https://github.com/tomaskul/tomaskul.github.io
 disqus_shortname: ""
-twitter_username: "tomas__tweets"
+twitter_username: ""
 comments: false
 
 # Build settings
@@ -44,7 +44,7 @@ author:
   name     : "Tomas Kulvietis"
   job      : "Software Engineer"
   bio      : "Check out some my past projects:"
-  thumb    : /assets/images/me.png
+  thumb    : 
   email    : 
   url      : https://tomaskul.github.io
   github   : https://github.com/tomaskul

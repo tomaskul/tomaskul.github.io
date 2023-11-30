@@ -1,9 +1,4 @@
-- link: /
-  name: Home
 - link: /blog
   name: Blog
 - link: /about
   name: About
-- link: /feed.xml
-  name: RSS
-  newtab: true
